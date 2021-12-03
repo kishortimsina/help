@@ -1,0 +1,4 @@
+STOCK_HOME="/app/stock/lazy-noob"
+
+STOCK_SOURCE_FILE="$STOCK_HOME/input/total_stock_list.txt"
+echo $NEW_STOCK >> $STOCK_SOURCE_FILE
